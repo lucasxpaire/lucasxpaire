@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">●  Graduando em Ciência da Computação na Universidade Federal de Santa Maria, atualmente no 4º semestre.<br>●  Experiência em linguagens como C e Python, mas com foco atual em Java, visando me tornar um Desenvolvedor FullStack.<br>●  Interesse em sistemas, com ênfase em arquitetura de software e desenvolvimento de padrões de requisições em larga escala.<br>●  Gosto da criação de soluções escaláveis que impactam positivamente o desempenho de sistemas complexos.</p>
+<p align="left">●  Graduando em Ciência da Computação na Universidade Federal de Santa Maria, atualmente no 5º semestre.<br>●  Experiência em linguagens como C e Python, mas com foco atual em Java, visando me tornar um Desenvolvedor FullStack.<br>●  Interesse em sistemas, com ênfase em arquitetura de software e desenvolvimento de padrões de requisições em larga escala.<br>●  Gosto da criação de soluções escaláveis que impactam positivamente o desempenho de sistemas complexos.</p>
 
 ###
 
