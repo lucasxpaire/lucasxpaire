@@ -1,67 +1,96 @@
-<h2 align="center">Salve! Eu sou o Lucas Pairé.</h2>
+# Hi 👋, I'm Lucas Pairé
 
-###
+🚀 **Full-Stack Developer | Java & Spring Ecosystem** 
+🇧🇷 Brazil
 
-<p align="left">●  Graduando em Ciência da Computação na Universidade Federal de Santa Maria, atualmente no 5º semestre.<br>●  Experiência em linguagens como C e Python, mas com foco atual em Java, visando me tornar um Desenvolvedor FullStack.<br>●  Interesse em sistemas, com ênfase em arquitetura de software e desenvolvimento de padrões de requisições em larga escala.<br>●  Gosto da criação de soluções escaláveis que impactam positivamente o desempenho de sistemas complexos.</p>
+I build **scalable backends**, **management systems**, and **automations**.  
+I’m deeply focused on **software architecture, clean code, and business-driven solutions**.
 
-###
+Currently studying Computer Science at UFSM and working to transform complex business rules into clean, efficient software.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasxpaire&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasxpaire&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+## 🌐 Where to find me
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/lucaspaire/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+<p align="left">
+  <a href="https://github.com/lucasxpaire">
+    <img src="https://img.shields.io/badge/GitHub-LUCASXPAIRE-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.instagram.com/lucasxpaire/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="https://www.linkedin.com/in/lucaspaire/">
+    <img src="https://img.shields.io/badge/LinkedIn-LUCASPAIRE-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</div>
+  <a href="https://instagram.com/lucasxpaire">
+    <img src="https://img.shields.io/badge/Instagram-@LUCASXPAIRE-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
-###
+---
 
-<br clear="both">
+## 🧠 What I do
 
-<img src="https://raw.githubusercontent.com/lucasxpaire/lucasxpaire/output/snake.svg" alt="Snake animation" />
+-   🏗️ Full-Stack Development
+-   🧩 Clean architecture & Clean Code advocacy
+-   🤖 Automations & Integrations (e.g., WhatsApp bots)
+-   🗺️ Interactive Dashboards & Data Visualization
+-   📊 Relational Database Modeling
+-   ☁️ VPS & Cloud Infrastructure setup
+---
 
-###
+## 🛠️ Tech Stack
 
-<br clear="both">
+### Frontend
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/lucasxpaire/count.svg?"  />
-</div>
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
+![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components)
 
-###
+### Backend
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-web-services&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lucasxpaire&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasxpaire&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Philosophy
+
+> _"Code is not just about solving problems.  
+> It's about building clean, maintainable solutions that scale and generate real value."_
+
+---
+
+⭐ If you like my work, consider starring a repository  
+🤝 Always open to collaborations, partnerships, and cool ideas
