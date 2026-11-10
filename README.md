@@ -22,6 +22,10 @@ AI-powered educational platform that converts anatomical study material (PDFs) i
 Distributed systems middleware implementing causal order message broadcasting using vector clocks, message queues, and concurrent delivery mechanisms.
 * **Tech Stack:** Java, Distributed Systems, Concurrency, Networking
 
+### [gRPC Distributed Chat](https://github.com/lucasxpaire/grpc-distributed-chat)
+Real-time distributed chat application built in Java 21 utilizing gRPC and Protocol Buffers. Features strict contract-driven design, unary RPCs for user registration, and server-side streaming for concurrent multi-client message distribution.
+* **Tech Stack:** Java 21, gRPC, Protocol Buffers, Concurrency, Maven
+
 ### [Meteorological Records Management System](https://github.com/lucasxpaire/meteorological-records)
 Web platform for historical climate data management, geospatial mapping, and time-series forecasting utilizing station datasets from INMET. Implements an MVC architecture with statistical machine learning engines and relational persistence.
 * **Tech Stack:** Java, Spring MVC, Hibernate / JPA, MySQL, GeoJSON, Time-Series Analysis
