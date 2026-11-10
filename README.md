@@ -1,92 +1,44 @@
-# Hi 👋, I'm Lucas Pairé
+# Lucas Pairé
 
-🚀 **Full-Stack Developer | Java & Spring Ecosystem** 
-🇧🇷 Brazil
+**Software Engineer**  
+Santa Maria, RS, Brazil | Computer Science, Universidade Federal de Santa Maria (UFSM)
 
-I build **scalable backends**, **management systems**, and **automations**.  
-I’m deeply focused on **software architecture, clean code, and business-driven solutions**.
-
-Currently studying Computer Science at UFSM and working to transform complex business rules into clean, efficient software.
+Software Engineer with experience in backend architecture, distributed systems, and full-stack web applications. Core expertise in **Java (Spring Boot, Hibernate, JPA)**, **TypeScript/Angular**, and **relational databases (PostgreSQL, MySQL)**, with a strong focus on clean architecture, performance optimization, and robust API design.
 
 ---
 
-## 🌐 Where to find me
+## Featured Projects
 
-<p align="left">
-  <a href="https://github.com/lucasxpaire">
-    <img src="https://img.shields.io/badge/GitHub-LUCASXPAIRE-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/lucaspaire/">
-    <img src="https://img.shields.io/badge/LinkedIn-LUCASPAIRE-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/lucasxpaire">
-    <img src="https://img.shields.io/badge/Instagram-@LUCASXPAIRE-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+### [Apache Fineract Loan Origination System](https://github.com/lucasxpaire/fineract-loan-origination)
+Standalone loan origination service designed for integration with the Apache Fineract financial platform (GSoC). Implements a multi-stage loan approval state machine, an automated credit-scoring engine, and role-based portals for applicants and loan officers.
+* **Tech Stack:** Java 21, Spring Boot, Angular, PostgreSQL, Docker, Clean Architecture
 
----
+### [AnatomIA](https://github.com/lucasxpaire/ELC1074-PROJETO-DE-SOFTWARE-II-ANATOMIZE)
+Educational assessment platform that converts anatomical course material (PDFs) into structured oral exam simulations using LLM agents and multi-lingual speech-to-text evaluation.
+* **Tech Stack:** TypeScript, Python, LLM Integration, Speech-to-Text, RESTful APIs
 
-## 🧠 What I do
+### [Causal Multicast Middleware](https://github.com/lucasxpaire/causal-multicast-middleware)
+Distributed systems middleware implementing causal order message broadcasting using vector clocks, message queues, and concurrent delivery mechanisms.
+* **Tech Stack:** Java, Distributed Systems, Concurrency, Networking
 
--   🏗️ Full-Stack Development
--   🧩 Clean architecture & Clean Code advocacy
--   🤖 Automations & Integrations (e.g., WhatsApp bots)
--   🗺️ Interactive Dashboards & Data Visualization
--   📊 Relational Database Modeling
--   ☁️ VPS & Cloud Infrastructure setup
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
-![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components)
-
-### Backend
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-
-### Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### DevOps & Tools
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### [DBest Query Engine](https://github.com/lucasxpaire/DBest)
+Interactive query execution engine designed for modeling, visualizing, and analyzing relational algebra execution plans, index utilization, and I/O costs.
+* **Tech Stack:** Java, SQL, Relational Algebra, Database Internals
 
 ---
 
-## 📊 GitHub Stats
+## Technical Skills
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lucasxpaire&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasxpaire&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🚀 Philosophy
-
-> _"Code is not just about solving problems.  
-> It's about building clean, maintainable solutions that scale and generate real value."_
+* **Languages:** Java (8, 17, 21), TypeScript, JavaScript (ES6+), Python, SQL, C
+* **Backend:** Spring Boot, Spring MVC, Spring Security, Hibernate / JPA, REST APIs, Webservices (SOAP/REST)
+* **Frontend:** Angular, HTML5, CSS3, JSP
+* **Databases:** PostgreSQL, MySQL, Relational Data Modeling, Query Plan Optimization
+* **DevOps & Architecture:** Docker, Git / GitHub (PRs, Code Review), Linux, Clean Architecture, Distributed Systems
 
 ---
 
-⭐ If you like my work, consider starring a repository  
-🤝 Always open to collaborations, partnerships, and cool ideas
+## Contact
+
+* **LinkedIn:** [linkedin.com/in/lucaspaire](https://www.linkedin.com/in/lucaspaire/)
+* **Email:** [lucaspaire01@gmail.com](mailto:lucaspaire01@gmail.com)
+* **GitHub:** [github.com/lucasxpaire](https://github.com/lucasxpaire)
