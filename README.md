@@ -13,7 +13,7 @@ Software Engineer with experience in backend architecture, distributed systems, 
 Standalone loan origination service designed for integration with the Apache Fineract financial platform (GSoC). Implements a multi-stage loan approval state machine, an automated credit-scoring engine, and role-based portals for applicants and loan officers.
 * **Tech Stack:** Java 21, Spring Boot, Angular, PostgreSQL, Docker, Clean Architecture
 
-### [Anatomize](https://github.com/muriloblock/ELC1074-PROJETO-DE-SOFTWARE-II-ANATOMIZE)
+### [Anatomize](https://github.com/lucasxpaire/anatomize)
 AI-powered educational platform that converts anatomical study material (PDFs) into interactive oral exam simulations using LLM agents and speech-to-text evaluation. Developed collaboratively as a core contributor, implementing question generation, chunking logic, audio evaluation workflows, and full-stack integration.
 * **Tech Stack:** TypeScript, React, Python, LLM / AI Agents, Speech-to-Text, Supabase
 * **Role:** Core Contributor / Full Stack & AI Integration
