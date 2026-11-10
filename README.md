@@ -22,6 +22,10 @@ AI-powered educational platform that converts anatomical study material (PDFs) i
 Distributed systems middleware implementing causal order message broadcasting using vector clocks, message queues, and concurrent delivery mechanisms.
 * **Tech Stack:** Java, Distributed Systems, Concurrency, Networking
 
+### [Meteorological Records Management System](https://github.com/lucasxpaire/meteorological-records)
+Web platform for historical climate data management, geospatial mapping, and time-series forecasting utilizing station datasets from INMET. Implements an MVC architecture with statistical machine learning engines and relational persistence.
+* **Tech Stack:** Java, Spring MVC, Hibernate / JPA, MySQL, GeoJSON, Time-Series Analysis
+
 ### [DBest Query Engine](https://github.com/lucasxpaire/DBest)
 Interactive query execution engine designed for modeling, visualizing, and analyzing relational algebra execution plans, index utilization, and I/O costs.
 * **Tech Stack:** Java, SQL, Relational Algebra, Database Internals
